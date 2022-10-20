@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../../Assets/logo.png";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
-import resume from "../../Assets/resume.pdf";
+
 
 const Header = ({ toggle }) => {
   return (
@@ -39,7 +39,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href={resume}
+            href="https://drive.google.com/file/d/1Sr5AG_W18RksgFfrxDuyhkKVhor7Nd5-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
