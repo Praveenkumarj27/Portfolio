@@ -15,7 +15,7 @@ import aws_img from "./Assets/aws.png"
 import git_img from "./Assets/git.png"
 import heruko_img from "./Assets/heruko.png"
 import netlify_img from "./Assets/netlify.png"
-import TexChat_img from "./Assets/Texchat.png"
+import TexChat_img from "./Assets/Texchat-login.png"
 import zenEvent_img from "./Assets/zenEvent1.png"
 
 // Project List
