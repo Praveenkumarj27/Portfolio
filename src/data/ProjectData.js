@@ -17,6 +17,7 @@ import heruko_img from "./Assets/heruko.png";
 import netlify_img from "./Assets/netlify.png";
 import TexChat_img from "./Assets/Texchat-login.png";
 import zenEvent_img from "./Assets/zenEvent1.png";
+import ZenDesk_img from "./Assets/ZenDesk.png";
 
 // Project List
 export const ProjectList = [
@@ -25,8 +26,8 @@ export const ProjectList = [
     title: "Zen Event Management",
     description: "Created simple Zen Event Management website using reactjs",
     tech_stack: "Reactjs,mongoDb,node",
-    github_url:
-      "https://github.com/Praveenkumarj27/Zen-Event-Management-Frontend.git",
+    github_url_fe:"https://github.com/Praveenkumarj27/Zen-Event-Management-Frontend.git",
+    github_url_be: "https://github.com/Praveenkumarj27/Zen-event-capstone-backend.git",
     demo_url: "	https://zen-event-management.netlify.app",
   },
   {
@@ -35,7 +36,8 @@ export const ProjectList = [
     description:
       "This project is a simplified a full stack clone of Stackoverflow. I wrote it to learn more about Nodejs, React and MongoDB .",
     tech_stack: "Reactjs,css,bootstrap",
-    github_url: "https://github.com/Praveenkumarj27/stackOverflow-frontend",
+    github_url_fe: "https://github.com/Praveenkumarj27/stackOverflow-frontend",
+    github_url_be: "https://github.com/Praveenkumarj27/stackoverflow-backend.git",
     demo_url: "https://rainbow-puffpuff-bc960b.netlify.app",
   },
 
@@ -44,8 +46,18 @@ export const ProjectList = [
     title: "TexChat",
     description: "Created simple Chat app using reactjs and socket.io",
     tech_stack: "Reactjs,mongoDb,node",
-    github_url: "https://github.com/Praveenkumarj27/TexChat-Frontend.git",
+    github_url_fe: "https://github.com/Praveenkumarj27/TexChat-Frontend.git",
+    github_url_be: "https://github.com/Praveenkumarj27/TexChat-Backend.git",
     demo_url: "	https://texchat.netlify.app",
+  },
+  {
+    img: ZenDesk_img,
+    title: "ZenDesk",
+    description: "Created simple ZenDesk using reactjs and material-ui",
+    tech_stack: "Reactjs,mongoDb,node",
+    github_url_fe: "https://github.com/Praveenkumarj27/ZenDesk-Frontend.git",
+    github_url_be: "https://github.com/Praveenkumarj27/ZenDesk-Backend.git",
+    demo_url: "https://zen-desk.netlify.app",
   },
 ];
 

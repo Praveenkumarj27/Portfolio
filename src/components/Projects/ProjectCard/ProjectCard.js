@@ -25,11 +25,19 @@ function ProjectCard() {
             <BtnGroup>
               <a
                 className="btn btn2 SecondarBtn"
-                href={list.github_url}
+                href={list.github_url_fe}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github
+                 Frontend
+              </a>
+              <a
+                className="btn btn2 SecondarBtn"
+                href={list.github_url_be}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Backend
               </a>
               <a
                 className="btn PrimaryBtn"
