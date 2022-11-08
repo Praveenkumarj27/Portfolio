@@ -12,6 +12,7 @@ import {
   Image,
   ScrollDown,
   ScrollLink,
+  NavBtn,
 } from "./HeroElements";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
@@ -31,6 +32,17 @@ function Hero() {
             <p>
               I design and code beautifully simple things, and I love what I do.
             </p>
+            <NavBtn>
+          <a
+          
+            className="btn PrimaryBtn"
+            href="https://drive.google.com/file/d/1uYT0quE1RvpBLvFRh_FmXHRE0iMY5hIU/view?usp=share_link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Resume
+          </a>
+        </NavBtn>
           </HeroLeft>
           <HeroRight>
             <Image

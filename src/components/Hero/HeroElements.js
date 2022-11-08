@@ -120,3 +120,14 @@ export const ScrollLink = styled.div`
     margin-left: 6px;
   }
 `;
+
+export const NavBtn = styled.nav`
+  display: flex;
+  align-items: center;
+  margin-right: 24px;
+
+ a {
+  margin-top: 20px;
+ } 
+
+`;

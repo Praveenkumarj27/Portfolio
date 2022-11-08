@@ -24,7 +24,7 @@ export const ProjectList = [
   {
     img: zenEvent_img,
     title: "Zen Event Management",
-    description: "Created simple Zen Event Management website using reactjs",
+    description: "In this project Admin will create a task to the student,they will complete and submit the task with in the given time.",
     tech_stack: "Reactjs,mongoDb,node",
     github_url_fe:"https://github.com/Praveenkumarj27/Zen-Event-Management-Frontend.git",
     github_url_be: "https://github.com/Praveenkumarj27/Zen-event-capstone-backend.git",
@@ -34,7 +34,7 @@ export const ProjectList = [
     img: stackOverflow_img,
     title: "Stack overflow clone",
     description:
-      "This project is a simplified a full stack clone of Stackoverflow. I wrote it to learn more about Nodejs, React and MongoDB .",
+      "This project is a simplified a full stack clone of Stackoverflow. I wrote it to learn more about Nodejs,React and MongoDB .",
     tech_stack: "Reactjs,css,bootstrap",
     github_url_fe: "https://github.com/Praveenkumarj27/stackOverflow-frontend",
     github_url_be: "https://github.com/Praveenkumarj27/stackoverflow-backend.git",
@@ -44,7 +44,7 @@ export const ProjectList = [
   {
     img: TexChat_img,
     title: "TexChat",
-    description: "Created simple Chat app using reactjs and socket.io",
+    description: "TexChat provides the instant communication functionality between users",
     tech_stack: "Reactjs,mongoDb,node",
     github_url_fe: "https://github.com/Praveenkumarj27/TexChat-Frontend.git",
     github_url_be: "https://github.com/Praveenkumarj27/TexChat-Backend.git",
@@ -52,12 +52,12 @@ export const ProjectList = [
   },
   {
     img: ZenDesk_img,
-    title: "ZenDesk",
-    description: "Created simple ZenDesk using reactjs and material-ui",
+    title: "HelpDesk",
+    description: "In this Project Users raise a Query and the Admin will give a solution for particular User",
     tech_stack: "Reactjs,mongoDb,node",
-    github_url_fe: "https://github.com/Praveenkumarj27/ZenDesk-Frontend.git",
-    github_url_be: "https://github.com/Praveenkumarj27/ZenDesk-Backend.git",
-    demo_url: "https://zen-desk.netlify.app",
+    github_url_fe: "https://github.com/Praveenkumarj27/HelpDesk-Frontend.git",
+    github_url_be: "https://github.com/Praveenkumarj27/HelpDesk-Backend.git",
+    demo_url: "https://helpdesk-frontend.netlify.app",
   },
 ];
 
