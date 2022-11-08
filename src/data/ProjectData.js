@@ -53,7 +53,7 @@ export const ProjectList = [
   {
     img: ZenDesk_img,
     title: "HelpDesk",
-    description: "In this Project Users raise a Query and the Admin will give a solution for particular User",
+    description: "In this Project Users raise a Query and the Admin will give a solution to the particular User",
     tech_stack: "Reactjs,mongoDb,node",
     github_url_fe: "https://github.com/Praveenkumarj27/HelpDesk-Frontend.git",
     github_url_be: "https://github.com/Praveenkumarj27/HelpDesk-Backend.git",
