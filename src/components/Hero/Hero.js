@@ -36,7 +36,7 @@ function Hero() {
           <a
           
             className="btn PrimaryBtn"
-            href="https://drive.google.com/file/d/1uYT0quE1RvpBLvFRh_FmXHRE0iMY5hIU/view?usp=share_link"
+            href="https://drive.google.com/file/d/1NVs1vu-_Ig-uE2aZ2hpo0JxuYtoYTUzI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
