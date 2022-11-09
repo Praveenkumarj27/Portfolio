@@ -41,9 +41,9 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Praveenkumar J</strong> and I enjoy
+            Hello! I am <strong>Praveenkumar J</strong> and I enjoy
             creating things that live on the internet. My interest in web
-            development started back in 2021 when I decided to try editing
+            development started back in 2020 when I decided to try editing
             custom Blogger themes — redesigning & modifying blogger themes
             taught me a lot about HTML & CSS!
           </div>

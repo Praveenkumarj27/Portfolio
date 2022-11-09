@@ -1,6 +1,3 @@
-import calc_img from "./Assets/calc.png";
-import ecommerce_img from "./Assets/ecommerce.png";
-import adminPortal_img from "./Assets/adminPortal.png";
 import stackOverflow_img from "./Assets/stackOverflow.png";
 import html_img from "./Assets/html.png";
 import css_img from "./Assets/css.png";
@@ -16,15 +13,15 @@ import git_img from "./Assets/git.png";
 import heruko_img from "./Assets/heruko.png";
 import netlify_img from "./Assets/netlify.png";
 import TexChat_img from "./Assets/Texchat-login.png";
-import zenEvent_img from "./Assets/zenEvent1.png";
-import ZenDesk_img from "./Assets/ZenDesk.png";
+import zenEvent_img from "./Assets/zenEvent.png";
+import HelpDesk_img from "./Assets/HelpDesk.png";
 
 // Project List
 export const ProjectList = [
   {
     img: zenEvent_img,
     title: "Zen Event Management",
-    description: "In this project Admin will create a task to the student,they will complete and submit the task with in the given time.",
+    description: "In this project Admin will create a task to the student,they will complete and submit the task.",
     tech_stack: "Reactjs,mongoDb,node",
     github_url_fe:"https://github.com/Praveenkumarj27/Zen-Event-Management-Frontend.git",
     github_url_be: "https://github.com/Praveenkumarj27/Zen-event-capstone-backend.git",
@@ -32,9 +29,9 @@ export const ProjectList = [
   },
   {
     img: stackOverflow_img,
-    title: "Stack overflow clone",
+    title: "Stack Overflow ",
     description:
-      "This project is a simplified a full stack clone of Stackoverflow. I wrote it to learn more about Nodejs,React and MongoDB .",
+      "This project is a replica of a famous Q/A website for developers",
     tech_stack: "Reactjs,css,bootstrap",
     github_url_fe: "https://github.com/Praveenkumarj27/stackOverflow-frontend",
     github_url_be: "https://github.com/Praveenkumarj27/stackoverflow-backend.git",
@@ -51,7 +48,7 @@ export const ProjectList = [
     demo_url: "	https://texchat.netlify.app",
   },
   {
-    img: ZenDesk_img,
+    img: HelpDesk_img,
     title: "HelpDesk",
     description: "In this Project Users raise a Query and the Admin will give a solution to the particular User",
     tech_stack: "Reactjs,mongoDb,node",
