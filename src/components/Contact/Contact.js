@@ -13,7 +13,8 @@ function Contact() {
     <p style={{textAlign:"center"}}>My inbox is always open. Whether you have a question or just want to say hello, 
     I'll try my best to get back to you! Feel free to mail me about any relevant job updates.</p>
 
-      <span style={{fontWeight:"bold",textAlign:"center",fontSize:"1.2rem",paddingTop:"5px"}}>jpraveenkumar263@gmail</span>
+      <span style={{fontWeight:"bold",textAlign:"center",fontSize:"1.2rem",paddingTop:"5px"}}>jpraveenkumar263@gmail.com</span>
+      <span  style={{fontWeight:"bold",textAlign:"center",fontSize:"1.3rem",paddingTop:"5px",fontFamily:"serif"}}>Mobile:7708384827</span>
       <a
               className="btn PrimaryBtn"
               href="mailto:jpraveenkumar263@gmail.com"
